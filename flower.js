@@ -8,4 +8,8 @@ $(document).ready(function () {
             top: 0
         }, 'slow');
     });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 3bb9bd55061a80b51b2c2c0d3030703bbd7aef4e
