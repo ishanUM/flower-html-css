@@ -653,3 +653,11 @@ body {
     opacity: 0.5;
   }
 }
+.envelope:hover .top {
+  transform: rotateX(160deg);
+}
+
+.envelope:hover .letter {
+  transform: translateY(-100px);
+  z-index:2;
+}
